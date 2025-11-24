@@ -27,26 +27,16 @@ A streamlined, professional workflow guided the entire project:
 
 ---
 
-## Problem Statement
-Understanding user listening behavior is essential for content strategy, platform engagement, and personalized recommendations.  
-However, raw listening logs do not directly expose:  
-- What users listen to most  
-- When they are most active  
-- How content performs year-over-year  
-- Which albums, artists, or tracks drive engagement  
-- How listening varies by time, day, or content category  
+## Problem Statement & Business Needs
+Understanding user listening behavior is critical for content strategy, platform engagement, and personalized recommendations. Raw listening logs alone do not reveal which albums, artists, or tracks drive engagement, when users are most active, how content performs over time, or how listening patterns vary by day or hour.  
 
-This project addresses these gaps by turning raw data into structured, navigable insights.
+Stakeholders need a solution that provides structured, actionable insights to:  
+- Monitor engagement levels and content performance in real time  
+- Identify top-performing and underperforming albums, artists, and tracks  
+- Reveal listening habits across hours, weekdays, weekends, and seasons  
+- Support playlist curation, marketing campaigns, and recommendation strategies  
+- Enable fast, interactive exploration through dashboards for data-driven decision-making
 
----
-
-## Business Needs
-Stakeholders need a solution that:  
-- Monitors engagement levels and content performance  
-- Identifies top-performing and underperforming albums, artists, and tracks  
-- Reveals listening habits across hours, days, and seasons  
-- Supports playlist curation, marketing campaigns, and recommendation systems  
-- Enables fast exploration through interactive dashboards  
 
 ---
 
