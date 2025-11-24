@@ -55,16 +55,11 @@ This analysis was designed to answer high-impact questions:
 ## Dashboards & Visualizations
 
 ### Overview Dashboard
-The Overview Dashboard brings together the core listening insights across albums, artists, and tracks—presenting a unified, high-level snapshot of user engagement. It highlights the top performers, long-term trends, and behavioral patterns that define how users interact with Spotify content over time.
+The Overview Dashboard brings together the core listening insights across albums, artists, and tracks, presenting a unified, high-level snapshot of user engagement. It highlights top performers, long-term trends, and behavioral patterns, showing overall trends, weekday/weekend activity, and year-over-year performance in a single, consolidated view.
+
 
 <img width="833" height="551" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/f9680c47-f23b-4e2e-a8d7-659f0283a459" />
 
-### Key Visuals
-- **Total Plays Over Time** for albums, artists, and tracks  
-- **Engagement by Year** with minimum and maximum values  
-- **Top 5 Albums, Artists, and Tracks** based on listening frequency  
-- **Weekday vs Weekend Listening Patterns**  
-- **YoY Performance Comparison** across all content categories  
 
 ### **Listening Patterns Dashboard**
 The Listening Patterns Dashboard visualizes user engagement over time, featuring a heatmap of listening hours to identify peak activity and a scatter plot of track frequency versus duration to highlight top engagement drivers, niche impactful tracks, frequently repeated short tracks, and lower-interaction content.
@@ -106,5 +101,5 @@ The Details Grid provides a comprehensive, filterable view of albums, artists, t
 
 ---
 
-## About  
+## Note:
 This project demonstrates real-world data analytics capability—from raw logs to a refined decision-support tool. It highlights skills in data modeling, transformation, visualization, and strategic insight development, making it a valuable portfolio piece for analytics, BI, and data science roles.
