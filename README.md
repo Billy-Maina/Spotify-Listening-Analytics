@@ -101,5 +101,3 @@ The Details Grid provides a comprehensive, filterable view of albums, artists, t
 
 ---
 
-## Note:
-This project demonstrates real-world data analytics capability—from raw logs to a refined decision-support tool. It highlights skills in data modeling, transformation, visualization, and strategic insight development, making it a valuable portfolio piece for analytics, BI, and data science roles.
